@@ -1,0 +1,2 @@
+%grep "string" FILE_PATTERN
+grep "this" demo_*

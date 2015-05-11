@@ -1,0 +1,4 @@
+% grep "literal_string" filename
+grep "this" demo_file
+
+

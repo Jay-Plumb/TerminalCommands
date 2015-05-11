@@ -1,0 +1,2 @@
+%grep -i "string" FILE
+grep -i "the" demo_file
