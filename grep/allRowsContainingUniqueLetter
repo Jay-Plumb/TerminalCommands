@@ -1,0 +1,3 @@
+# grep -iw "word" filename
+
+grep -iw "is" demo_file
