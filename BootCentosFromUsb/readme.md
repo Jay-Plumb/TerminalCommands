@@ -1,0 +1,14 @@
+Objective: How to install a bootable USB with Centos on a mac
+System: Mavericks 
+Date: 05/21/2015
+
+Unix commands:
+
+$ hdiutil convert -format UDRW -o target.img <Centos.iso>
+$ diskutil list
+$ diskutil unmountDisk /dev/disk2
+$ time sudo dd if=target.img.dmg of=/dev/disk2 bs=1m
+
+Comment:
+Use ctrl + t to see how many bits executed. USB will continually flash if working
+
