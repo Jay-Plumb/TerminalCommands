@@ -1,3 +1,9 @@
 Instructions to run a fresh Centos 7 install on a server that is currently running Centos 6.5.
+Assumptions: Server is powered and running
+
+1) Shutdown server remotely 
+$ sudo shutdown -h +1 "Server being upgraded from Centos 6.5 to 7. All data will be lost."
+
+2)  
 
 

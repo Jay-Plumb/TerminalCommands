@@ -12,4 +12,6 @@ $ time sudo dd if=target.img.dmg of=/dev/disk2 bs=1m
 Comment:
 Use ctrl + t to see how many bits executed. USB will continually flash if working
 
+Update: using unetbootin (mac app) and no longer using the torrent version. 
+
 
