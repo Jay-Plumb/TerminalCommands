@@ -1,0 +1,3 @@
+Instructions to run a fresh Centos 7 install on a server that is currently running Centos 6.5.
+
+
